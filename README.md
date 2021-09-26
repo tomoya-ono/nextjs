@@ -1,5 +1,5 @@
 # request  
-http://localhost:3000/any?foo=bar
+http://localhost:3000/blog/any?foo=bar
 # res
-id=any
-foo=bar
+any
+bar
