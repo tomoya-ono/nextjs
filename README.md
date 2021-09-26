@@ -1,6 +1,5 @@
-#request  
-
+# request  
 http://localhost:3000/any?foo=bar
-#res
+# res
 id=any
 foo=bar
